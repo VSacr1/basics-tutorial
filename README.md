@@ -15,3 +15,17 @@ _this would make text italic_
 >
 > Multi-line
 
+* Bullet 
+* Point 
+* Lists 
+
+1. Numbered
+2. Lists 
+
+* List
+    * inside of 
+    * a list
+* Hurray! 
+
+Puppies! 
+![puppies](https://www.rd.com/wp-content/uploads/2021/03/GettyImages-1133605325-scaled-e1617227898456.jpg)

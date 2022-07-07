@@ -1,1 +1,1 @@
-This is an example of a conflict occuring
+This is not an example of a conflict! This is the real work!
